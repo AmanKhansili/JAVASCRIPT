@@ -12,6 +12,9 @@ loveScore = Math.floor(loveScore) + 1;
 if(loveScore > 70){
     alert("Your Love Score is " + loveScore + "%"+" You both made for each other.");
 }
-else{
+if(loveScore > 30 && loveScore <=70){
     alert("Your Love Score is " + loveScore + "%")
+}
+if(loveScore <=  30){
+    alert("Your love score is " + loveScore + "%" + " Try on another one.")
 }

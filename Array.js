@@ -2,13 +2,13 @@
 
 /<The includes() method return true,False if an array contains a spacified value.>*/
 
-var guestList = ["Aman" ,"Abhi","Beeru","Karan","Mayank","Bhatt","Khatti", "Panday"];
+var guestList = ["Aman", "Abhi", "Beeru", "Karan", "Mayank", "Bhatt", "Khatti", "Panday"];
 
 var Name = prompt("Enter Your Name");
 
-if(guestList.includes(Name)){
+if (guestList.includes(Name)) {
     alert("Welcome");
 }
-else{
+else {
     alert("Try next time")
 }

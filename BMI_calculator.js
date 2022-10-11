@@ -1,4 +1,4 @@
-function bmiCalcualator(weight, height){
+function bmiCalcualator(weight, height) {
     var bmi = weight / Math.pow(height, 2);
     return bmi;
 }

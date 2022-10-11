@@ -15,7 +15,7 @@ let j = 0;
 //     console.log(arr[j]);
 //     j++;
 // }
-do{
+do {
     console.log(arr[j]);
     j++;
-}while(j < arr.length)
+} while (j < arr.length)

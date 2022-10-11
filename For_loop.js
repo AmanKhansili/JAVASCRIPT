@@ -1,6 +1,14 @@
 /*<----    Start End Change
       |    |     |
-for(i=0;  i<2;  i++){
+for(i=0;  i<2;  i++){           Trying to iterate, running a code many many time
+    //Do Something
+}
+
+while(Something is true){       checking a state
+    //Do something
+}
+
+
 }---->*/
 
 

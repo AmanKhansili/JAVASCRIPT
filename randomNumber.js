@@ -16,5 +16,5 @@ if (loveScore > 30 && loveScore <= 70) {
     alert("Your Love Score is " + loveScore + "%")
 }
 if (loveScore <= 30) {
-    alert("Your love score is " + loveScore + "%" + " Try on another one.")
+    alert("Your love score is " + loveScore + "%" + "   Try on another one.")
 }
